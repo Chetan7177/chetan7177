@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shinde Chetan Santosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Devops Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan7177&label=Profile%20views&color=0e75b6&style=flat" alt="chetan7177" /> </p>
 
